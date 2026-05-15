@@ -1,0 +1,10 @@
+{
+  "IntroSec": 3.0,
+  "OutroSec": 2.0,
+  "Mode": "ffmpeg",
+  "VideoCodec": "libx264",
+  "VideoBitrate": "8M",
+  "AudioCodec": "aac",
+  "AudioBitrate": "192k",
+  "RenderPreset": "YouTube - 1080p"
+}

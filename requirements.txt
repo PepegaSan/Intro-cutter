@@ -1,0 +1,5 @@
+# Intro Cutter
+# Resolve-API: lokal mit DaVinci Resolve Studio (kein pip-Paket).
+# Empfohlen: Python 3.10–3.12 (64-bit), gleiche Rechte wie Resolve.
+
+windnd>=1.0.5; sys_platform == "win32"

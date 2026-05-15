@@ -1,0 +1,8 @@
+intro_cut_defaults.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+README_Robocopy_GUI.md
+.idea/
+.vscode/
